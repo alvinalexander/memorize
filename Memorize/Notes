@@ -1,0 +1,30 @@
+
+
+Enums
+
+value type
+pass by value
+enum FastFoodMenuItem {
+    case hamburger(numberofPaties: int)
+    case fires
+    case
+
+}
+
+Setting valye
+
+let menuItem: Fastfooe =
+
+:fatsfoo = .cookie
+
+
+switch menuItem {
+    case Fast
+}
+
+Optional
+
+enum Optional <T> {
+    case none
+    case some(T)
+}
